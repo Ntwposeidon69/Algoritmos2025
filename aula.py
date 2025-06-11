@@ -1,4 +1,3 @@
-
 import os
 
 tamanho = 0 
@@ -53,5 +52,6 @@ os.system(c)
 
 c = "git push"
 os.system(c)
+
 
 
